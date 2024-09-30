@@ -7,22 +7,23 @@ To write a program to predict the price of the house and number of occupants in 
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1.Start.
+## Algorithm.
 
-2.Data preparation.
+step 1 - Start.
 
-3.Hypothesis Definition.
+step 2 - Data preparation.
 
-4.Cost Function.
+step 3 - Hypothesis Definition.
 
-5.Parameter Update Rule.
+step 4 - Cost Function.
 
-6.Iterative Training.
+step 5 - Parameter Update Rule.
 
-7.Model evaluation.
+step 6 - Iterative Training.
 
-8.End.
+step 7 - Model evaluation.
+
+step 8 - End.
 
 ## Program:
 /*
